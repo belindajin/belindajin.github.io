@@ -1,0 +1,37 @@
+body, html {
+  font-family: "Roboto", sans-serif;
+  background-color: #111111;
+  height: 100%;
+  color: white;
+}
+
+h1 {
+  font-family: "Roboto Mono", serif;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #FFD300;
+}
+
+nav {
+  font-size: 2em;
+  line-height: normal;
+}
+
+.yellow {
+  color: #FDD300;
+}

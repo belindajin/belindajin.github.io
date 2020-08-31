@@ -1,0 +1,31 @@
+nav {
+  position: fixed;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+p {
+  color: #BEBEBE;
+  line-height: 1.2em;
+  letter-spacing: 0.05em;
+}
+
+hr {
+  margin: 1em 0 1em 0;
+  border-top: 1px solid white;
+}
+
+.right-align {
+  text-align: right;
+}
+
+#main {
+  padding: 8%;
+}
+
+#name {
+  position: relative;
+  top: 1em;
+}
