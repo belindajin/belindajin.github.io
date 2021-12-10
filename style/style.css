@@ -32,6 +32,20 @@ nav {
   line-height: normal;
 }
 
+.card {
+  background-color: #111111;
+  border: 1px solid white;
+  padding-top: .5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-bottom: .25em;
+  height: 100%;
+}
+
 .yellow {
   color: #FDD300;
+}
+
+.right-align {
+  text-align: right;
 }

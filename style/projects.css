@@ -7,6 +7,11 @@ img {
   margin-bottom: 1em;
 }
 
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 2em;
+}
+
 h2 {
   margin-top: 0.5em;
 }
@@ -18,8 +23,37 @@ p {
   font-size: 0.8em;
 }
 
+button {
+  margin-bottom: 0.25em;
+}
+
 .project-link {
   text-decoration: underline;
+}
+
+.pad-top {
+  margin-top: 1em;
+}
+
+.margin-bottom {
+  margin-bottom: 1.5em;
+}
+
+.tags {
+  margin-bottom: 1em;
+}
+
+.tag {
+  border-radius: 10%;
+  font-size: 0.8em;
+  color: white;
+}
+
+.lock {
+  position: absolute;
+  right: 1.5em;
+  top: 1em;
+  font-size: 1em;
 }
 
 #main {
