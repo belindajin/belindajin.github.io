@@ -26,6 +26,11 @@ hr {
   border-top: 1px solid white;
 }
 
+.card {
+  height: auto;
+  padding: 1.5em;
+}
+
 #main {
   padding: 8%;
 }
